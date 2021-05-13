@@ -29,5 +29,8 @@
     "gulp-sass": "^4.1.0",
     "node-sass": "^5.0.0",
     "postcss": "^8.2.12"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0"
   }
 }
